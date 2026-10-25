@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>{{ page.title }} · Fünf Striche</title>
+<style>
+  :root { --key: #1D1A22; --grau: #55505c; --linie: #d3d0d8; --papier: #FFFFFF; --akzent: #FFB511; }
+  @media (prefers-color-scheme: dark) {
+    :root { --key: #F2F0F5; --grau: #B8B3BF; --linie: #4A4652; --papier: #17151B; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--papier); color: var(--key);
+         font: 17px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+  main { max-width: 640px; margin: 0 auto; padding: 40px 16px 64px; }
+  .marke { display: flex; align-items: center; gap: 12px; margin-bottom: 32px; font-weight: 700; letter-spacing: .02em; }
+  .marke svg { flex: none; }
+  h1 { font-size: 32px; line-height: 1.2; margin: 0 0 24px; }
+  h2 { font-size: 19px; margin: 36px 0 8px; padding-top: 20px; border-top: 1px solid var(--linie); }
+  p { margin: 0 0 12px; }
+  a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+  .klein { color: var(--grau); font-size: 15px; }
+</style>
+</head>
+<body>
+<main>
+  <div class="marke">
+    <svg width="34" height="24" viewBox="0 0 34 24" aria-hidden="true">
+      <g stroke="currentColor" stroke-width="3" stroke-linecap="round">
+        <line x1="3" y1="3" x2="3" y2="21"/><line x1="10" y1="3" x2="10" y2="21"/>
+        <line x1="17" y1="3" x2="17" y2="21"/><line x1="24" y1="3" x2="24" y2="21"/>
+      </g>
+      <line x1="1" y1="17" x2="31" y2="6" stroke="#FFB511" stroke-width="3" stroke-linecap="round"/>
+    </svg>
+    <span>Fünf Striche</span>
+  </div>
+  {{ content }}
+</main>
+</body>
+</html>
