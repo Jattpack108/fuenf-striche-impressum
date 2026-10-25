@@ -5,7 +5,7 @@ title: Impressum
 
 # Impressum
 
-## Angaben gemäß § 5 DDG
+## Angaben gemäß §&nbsp;5 DDG
 
 [Vorname Nachname]<br>
 Fünf Striche<br>
@@ -17,7 +17,7 @@ Deutschland
 
 E-Mail: [E-Mail-Adresse]
 
-## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
+## Verantwortlich für den Inhalt nach §&nbsp;18 Abs.&nbsp;2 MStV
 
 [Vorname Nachname], Anschrift wie oben
 
@@ -27,7 +27,7 @@ Dieses Impressum gilt für die Profile von Fünf Striche auf [Instagram](https:/
 
 ## Datenschutz auf dieser Seite
 
-Diese Seite setzt keine Cookies, lädt keine fremden Schriften und nutzt keine Analysewerkzeuge. Sie wird über GitHub Pages bereitgestellt (GitHub, Inc., USA). Beim Aufruf verarbeitet GitHub technisch notwendige Daten, darunter Ihre IP-Adresse, um die Seite auszuliefern und vor Missbrauch zu schützen. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO. Näheres steht in der [Datenschutzerklärung von GitHub](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement).
+Diese Seite setzt keine Cookies, lädt keine fremden Schriften und nutzt keine Analysewerkzeuge. Sie wird über GitHub Pages bereitgestellt (GitHub, Inc., USA). Beim Aufruf verarbeitet GitHub technisch notwendige Daten, darunter Ihre IP-Adresse, um die Seite auszuliefern und vor Missbrauch zu schützen. Rechtsgrundlage ist Art.&nbsp;6 Abs.&nbsp;1 lit.&nbsp;f DSGVO. Näheres steht in der [Datenschutzerklärung von GitHub](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement).
 
 Verantwortlich ist die oben genannte Person. Sie haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung und Widerspruch sowie das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren.
 
